@@ -12,54 +12,6 @@ const iPhones = [
         price: 699.00
     },
     {
-        id: "iphone11pro",
-        name: "iPhone 11 Pro",
-        rating: 4.6,
-        description: "The iPhone 11 Pro features a 5.8-inch Super Retina XDR display, A13 Bionic chip, triple 12MP cameras (wide, ultra-wide, telephoto), and Night mode.",
-        images: [
-            "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-11-pro-1.jpg",
-            "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-11-pro-2.jpg",
-            "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-11-pro-3.jpg"
-        ],
-        price: 999.00
-    },
-    {
-        id: "iphone11promax",
-        name: "iPhone 11 Pro Max",
-        rating: 4.7,
-        description: "The iPhone 11 Pro Max features a 6.5-inch Super Retina XDR display, A13 Bionic chip, triple 12MP cameras (wide, ultra-wide, telephoto), and improved battery life.",
-        images: [
-            "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-11-pro-max-1.jpg",
-            "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-11-pro-max-2.jpg",
-            "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-11-pro-max-3.jpg"
-        ],
-        price: 1099.00
-    },
-    {
-        id: "iphone12",
-        name: "iPhone 12",
-        rating: 4.5,
-        description: "The iPhone 12 features a 6.1-inch Super Retina XDR display, A14 Bionic chip, 5G support, dual 12MP cameras (wide and ultra-wide), and Ceramic Shield protection.",
-        images: [
-            "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-1.jpg",
-            "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-2.jpg",
-            "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-3.jpg"
-        ],
-        price: 799.00
-    },
-    {
-        id: "iphone12pro",
-        name: "iPhone 12 Pro",
-        rating: 4.6,
-        description: "The iPhone 12 Pro features a 6.1-inch Super Retina XDR display, A14 Bionic chip, 5G support, triple 12MP cameras (wide, ultra-wide, telephoto), and LiDAR for AR.",
-        images: [
-            "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-pro-1.jpg",
-            "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-pro-2.jpg",
-            "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-pro-3.jpg"
-        ],
-        price: 999.00
-    },
-    {
         id: "iphone12promax",
         name: "iPhone 12 Pro Max",
         rating: 4.7,
@@ -70,30 +22,6 @@ const iPhones = [
             "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-pro-max-3.jpg"
         ],
         price: 1099.00
-    },
-    {
-        id: "iphone13",
-        name: "iPhone 13",
-        rating: 4.5,
-        description: "The iPhone 13 features a 6.1-inch Super Retina XDR display, A15 Bionic chip, 5G support, dual 12MP cameras with Cinematic mode, and improved battery life.",
-        images: [
-            "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-1.jpg",
-            "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-2.jpg",
-            "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-3.jpg"
-        ],
-        price: 799.00
-    },
-    {
-        id: "iphone13pro",
-        name: "iPhone 13 Pro",
-        rating: 4.7,
-        description: "The iPhone 13 Pro features a 6.1-inch Super Retina XDR display with ProMotion, A15 Bionic chip, triple 12MP cameras with macro photography, and 5G support.",
-        images: [
-            "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-1.jpg",
-            "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-2.jpg",
-            "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-3.jpg"
-        ],
-        price: 999.00
     },
     {
         id: "iphone13promax",
